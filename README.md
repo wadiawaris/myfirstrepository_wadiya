@@ -1,2 +1,2 @@
-# myfirstrepository_wadiya
-“This repository contains my Lab Task project for Artificial Intelligence. It includes the provided project files and my work as required.”
+# ai-learning-projects
+"Small AI/ML and Python projects while learning the fundamentals."
